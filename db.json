@@ -1,0 +1,14 @@
+{
+  usuarios: [
+      {'nome':'Alberto Gomes da Silva', 'idade': 45},
+      {'nome':'Bruna Bieluz Fontana', 'idade': 33},
+      {'nome':'Carlas Dias Freire', 'idade': 14},
+      {'nome':'Douglas Costa Ferreira', 'idade': 29}
+  ],
+  cachorros: [
+      { 'nome': 'Timão'},
+      { 'nome': 'Libel'},
+      { 'nome': 'Hulk'},
+      { 'nome': 'Camildu'}
+  ]
+}
