@@ -63,16 +63,6 @@
       "IdTipoOcorrencia": 1579,
       "Titulo": "DEVOLUÇÃO DE MERCADORIA",
       "IdTipoOcorrenciaJustificativa": 1
-    },
-    {
-      "IdTipoOcorrencia": 1605,
-      "Titulo": "OCORRÊNCIA NA ENTREGA",
-      "IdTipoOcorrenciaJustificativa": 1
-    },
-    {
-      "IdTipoOcorrencia": 159,
-      "Titulo": "COMPROVANTE NÃO RECEBIDO",
-      "IdTipoOcorrenciaJustificativa": 1
     }
   ],
   "ListaCoordenadasRota": [
@@ -83,10 +73,6 @@
     [
       2.7730900000000003,
       -60.708600000000004
-    ],
-    [
-      2.77312,
-      -60.708560000000006
     ]
   ],
   "GrupoDespesaViagem": null,
